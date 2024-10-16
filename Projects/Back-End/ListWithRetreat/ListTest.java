@@ -7,7 +7,7 @@ import components.list.List;
 /**
  * JUnit test fixture for {@code List<String>}'s constructor and kernel methods.
  *
- * @author Akshaya and Bella
+ * @author Bella Scholtes
  *
  */
 public abstract class ListTest {
