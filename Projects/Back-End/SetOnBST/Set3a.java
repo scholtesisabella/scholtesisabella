@@ -22,7 +22,7 @@ import components.set.SetSecondary;
  * @convention IS_BST($this.tree)
  * @correspondence this = labels($this.tree)
  *
- * @author Bella and Akshaya
+ * @author Bella Scholtes
  *
  */
 public class Set3a<T extends Comparable<T>> extends SetSecondary<T> {
