@@ -33,7 +33,7 @@ import components.simplewriter.SimpleWriter1L;
  *   index start and only through entry stop]
  * </pre>
  *
- * @author Put your name here
+ * @author Isabella Scholtes
  *
  */
 public final class ArraySiftDownMain {
