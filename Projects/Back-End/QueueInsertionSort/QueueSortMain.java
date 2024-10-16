@@ -10,7 +10,7 @@ import components.simplewriter.SimpleWriter1L;
  * Program to sort lines from an input file in lexicographic order by using
  * insertion sort on {@code Queue<String>}.
  *
- * @author Paolo Bucci
+ * @author Bella Scholtes
  */
 public final class QueueSortMain {
 
