@@ -10,7 +10,7 @@ import components.sortingmachine.SortingMachine;
  * JUnit test fixture for {@code SortingMachine<String>}'s constructor and
  * kernel methods.
  *
- * @author Akshaya and Bella
+ * @author Bella Scholtes
  *
  */
 public abstract class SortingMachineTest {
