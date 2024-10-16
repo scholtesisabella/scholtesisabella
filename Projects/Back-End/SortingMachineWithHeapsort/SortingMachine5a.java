@@ -60,7 +60,7 @@ import components.sortingmachine.SortingMachineSecondary;
  *   this = (false, $this.machineOrder, multiset_entries($this.heap[0, $this.heapSize)))
  * </pre>
  *
- * @author Bella and Akshaya
+ * @author Bella Scholtes
  *
  */
 public class SortingMachine5a<T> extends SortingMachineSecondary<T> {
