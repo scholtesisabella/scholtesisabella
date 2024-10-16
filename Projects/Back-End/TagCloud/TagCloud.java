@@ -15,7 +15,7 @@ import components.utilities.Reporter;
 /**
  * Creates tag cloud from input file.
  *
- * @author Bella Scholtes and Akshaya Iyer
+ * @author Bella Scholtes
  */
 public final class TagCloudGenerator {
 
