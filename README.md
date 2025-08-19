@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Steganography Implementation Lab          | <a href="https://google.com">Steganography Lab</a>|
+| Steganography Implementation Lab          | <a href="https://github.com/scholtesisabella/Steganography-Lab/tree/main">Steganography Lab</a>|
 | Cybersecurity Plan Creation Lab | <a href="https://google.com">Detection Lab</a>|
 | Home Lab Initial Setup        | SOC Automation Lab|
 
@@ -46,6 +46,6 @@ Credential ID: `FQ8WDYMS9F111VJJ`
 </div>
 
 ## Projects
-- Steganography Lab
+- <a href="https://github.com/scholtesisabella/Steganography-Lab/tree/main">Steganography Lab</a>
 - Cybersecurity Plan Creation Lab
 - Home Lab Initial Setup
