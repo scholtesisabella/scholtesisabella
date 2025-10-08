@@ -11,6 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Log Collection Lab          | <a href="https://github.com/scholtesisabella/LogCollection-Lab/tree/main">Log Collection Lab</a>|
 | Steganography Implementation Lab          | <a href="https://github.com/scholtesisabella/Steganography-Lab/tree/main">Steganography Lab</a>|
 | NIST Cybersecurity Plan Lab | <a href="https://github.com/scholtesisabella/CybersecurityPlan-Lab/blob/main/README.md">Cybersecurity Plan Lab</a>|
 | Home Lab Initial Setup        | SOC Automation Lab|
