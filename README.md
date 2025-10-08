@@ -46,6 +46,7 @@ Credential ID: `FQ8WDYMS9F111VJJ`
 </div>
 
 ## Projects
+- <a href="https://github.com/scholtesisabella/LogCollection-Lab/tree/main">Log Collection Lab</a>
 - <a href="https://github.com/scholtesisabella/Steganography-Lab/tree/main">Steganography Lab</a>
 - <a href="https://github.com/scholtesisabella/CybersecurityPlan-Lab/blob/main/README.md">Cybersecurity Plan Lab</a>
 - Home Lab Initial Setup
