@@ -11,6 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Log Parsing & Analysis Lab          | <a href="https://github.com/scholtesisabella/LogCollection-Lab/tree/main](https://github.com/scholtesisabella/LogAnalysis-Lab/tree/main">Log Analysis Lab</a>|
 | Log Collection Lab          | <a href="https://github.com/scholtesisabella/LogCollection-Lab/tree/main">Log Collection Lab</a>|
 | Steganography Implementation Lab          | <a href="https://github.com/scholtesisabella/Steganography-Lab/tree/main">Steganography Lab</a>|
 | NIST Cybersecurity Plan Lab | <a href="https://github.com/scholtesisabella/CybersecurityPlan-Lab/blob/main/README.md">Cybersecurity Plan Lab</a>|
@@ -47,6 +48,7 @@ Credential ID: `FQ8WDYMS9F111VJJ`
 </div>
 
 ## Projects
+- <a href="https://github.com/scholtesisabella/LogCollection-Lab/tree/main](https://github.com/scholtesisabella/LogAnalysis-Lab/tree/main">Log Analysis Lab</a> 
 - <a href="https://github.com/scholtesisabella/LogCollection-Lab/tree/main">Log Collection Lab</a>
 - <a href="https://github.com/scholtesisabella/Steganography-Lab/tree/main">Steganography Lab</a>
 - <a href="https://github.com/scholtesisabella/CybersecurityPlan-Lab/blob/main/README.md">Cybersecurity Plan Lab</a>
