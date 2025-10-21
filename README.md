@@ -1,21 +1,23 @@
-# Hello, I'm Isabella
+# 🛡️ Isabella Scholtes — Cybersecurity Blue Team Homelab Portfolio
 <a href="https://www.linkedin.com/in/isabella-scholtes-311296309/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a recent graduate with a degree in Cybersecurity and a background in Computer Science and Engineering. I recently earned my CompTIA Security+ certification and am passionate about building hands-on projects that showcase my skills in threat detection, analysis, and defense. This GitHub is where I share my cybersecurity projects, labs, and experiments as I continue developing my expertise and growing in the field.
+I hold a Bachelor’s degree in Cybersecurity with a background in software engineering, recently earned my CompTIA Security+, and I’m currently studying for the CompTIA CySA+.
+
+In this homelab, I use VMware to virtualize different operating systems and explore the blue team side of cybersecurity — from log analysis and SIEM integration to threat detection and incident response. Each project here reflects my hands-on journey to build real-world defensive skills and grow as a future SOC analyst.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Cybersecurity Analyst.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Splunk SOC Log Integration Lab          | <a href="https://github.com/scholtesisabella/Splunk-SOC-Lab/tree/main">Splunk SOC Log Integration Lab</a>|
 | Log Parsing & Analysis Lab          | <a href="https://github.com/scholtesisabella/LogAnalysis-Lab/tree/main">Log Analysis Lab</a>|
 | Log Collection Lab          | <a href="https://github.com/scholtesisabella/LogCollection-Lab/tree/main">Log Collection Lab</a>|
 | Steganography Implementation Lab          | <a href="https://github.com/scholtesisabella/Steganography-Lab/tree/main">Steganography Lab</a>|
 | NIST Cybersecurity Plan Lab | <a href="https://github.com/scholtesisabella/CybersecurityPlan-Lab/blob/main/README.md">Cybersecurity Plan Lab</a>|
-| Home Lab Initial Setup        | SOC Automation Lab|
 
 ## Tools
 
@@ -48,8 +50,8 @@ Credential ID: `FQ8WDYMS9F111VJJ`
 </div>
 
 ## Projects
+- <a href="https://github.com/scholtesisabella/Splunk-SOC-Lab/tree/main">Splunk SOC Log Integration Lab</a>|
 - <a href="https://github.com/scholtesisabella/LogAnalysis-Lab/tree/main">Log Analysis Lab</a> 
 - <a href="https://github.com/scholtesisabella/LogCollection-Lab/tree/main">Log Collection Lab</a>
 - <a href="https://github.com/scholtesisabella/Steganography-Lab/tree/main">Steganography Lab</a>
 - <a href="https://github.com/scholtesisabella/CybersecurityPlan-Lab/blob/main/README.md">Cybersecurity Plan Lab</a>
-- Home Lab Initial Setup
