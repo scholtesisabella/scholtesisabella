@@ -3,11 +3,9 @@
 
 I hold a Bachelor’s degree in Cybersecurity with a background in software engineering, recently earned my CompTIA Security+, and I’m currently studying for the CompTIA CySA+.
 
-In this homelab, I use VMware to virtualize different operating systems and explore the blue team side of cybersecurity — from log analysis and SIEM integration to threat detection and incident response. Each project here reflects my hands-on journey to build real-world defensive skills and grow as a future SOC analyst.
-
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Cybersecurity Analyst.
+In this homelab, I use VMware to virtualize different operating systems and explore the blue team side of cybersecurity — from log analysis and SIEM integration to threat detection and incident response. Each project here reflects my hands-on journey to build real-world defensive skills and grow as a future SOC analyst.
 
 ## Skills
 
