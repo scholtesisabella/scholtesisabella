@@ -13,11 +13,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Splunk SOC Log Integration Lab          | <a href="https://github.com/scholtesisabella/Splunk-SOC-Lab/tree/main">Splunk SOC Log Integration Lab</a>|
-| Log Parsing & Analysis Lab          | <a href="https://github.com/scholtesisabella/LogAnalysis-Lab/tree/main">Log Analysis Lab</a>|
-| Log Collection Lab          | <a href="https://github.com/scholtesisabella/LogCollection-Lab/tree/main">Log Collection Lab</a>|
-| Steganography Implementation Lab          | <a href="https://github.com/scholtesisabella/Steganography-Lab/tree/main">Steganography Lab</a>|
-| NIST Cybersecurity Plan Lab | <a href="https://github.com/scholtesisabella/CybersecurityPlan-Lab/blob/main/README.md">Cybersecurity Plan Lab</a>|
+| **Splunk Enterprise Log Integration** with Linux & Windows Universal Forwarders           | <a href="https://github.com/scholtesisabella/scholtesisabella/blob/main/Projects/Cybersecurity/Splunk%20SOC%20Log%20Integration%20Lab.md">Splunk SOC Log Integration Lab</a>|
+| **Log Parsing & Analysis** with Regex, Unix CL, and CyberChef          | <a href="https://github.com/scholtesisabella/scholtesisabella/blob/main/Projects/Cybersecurity/LogAnalysis-Lab.md">Log Analysis Lab</a>|
+| **Log Collection** in Linux Environment using Rsyslog          | <a href="https://github.com/scholtesisabella/scholtesisabella/blob/main/Projects/Cybersecurity/LogCollection-Lab.md">Log Collection Lab</a>|
+| **Steganography** Implementation using WinRAR Software          | <a href="https://github.com/scholtesisabella/scholtesisabella/blob/main/Projects/Cybersecurity/Steganography-Lab.md">Steganography Lab</a>|
+| **NIST CSF Cybersecurity Plan** | <a href="https://github.com/scholtesisabella/scholtesisabella/blob/main/Projects/Cybersecurity/CybersecurityPlan-Lab.md">Cybersecurity Plan Lab</a>|
 
 ## Tools
 
@@ -50,8 +50,8 @@ Credential ID: `FQ8WDYMS9F111VJJ`
 </div>
 
 ## Projects
-- <a href="https://github.com/scholtesisabella/Splunk-SOC-Lab/tree/main">Splunk SOC Log Integration Lab</a>|
-- <a href="https://github.com/scholtesisabella/LogAnalysis-Lab/tree/main">Log Analysis Lab</a> 
-- <a href="https://github.com/scholtesisabella/LogCollection-Lab/tree/main">Log Collection Lab</a>
-- <a href="https://github.com/scholtesisabella/Steganography-Lab/tree/main">Steganography Lab</a>
-- <a href="https://github.com/scholtesisabella/CybersecurityPlan-Lab/blob/main/README.md">Cybersecurity Plan Lab</a>
+- <a href="https://github.com/scholtesisabella/scholtesisabella/blob/main/Projects/Cybersecurity/Splunk%20SOC%20Log%20Integration%20Lab.md">Splunk SOC Log Integration Lab</a>|
+- <a href="https://github.com/scholtesisabella/scholtesisabella/blob/main/Projects/Cybersecurity/LogAnalysis-Lab.md">Log Analysis Lab</a> 
+- <a href="https://github.com/scholtesisabella/scholtesisabella/blob/main/Projects/Cybersecurity/LogCollection-Lab.md">Log Collection Lab</a>
+- <a href="https://github.com/scholtesisabella/scholtesisabella/blob/main/Projects/Cybersecurity/Steganography-Lab.md">Steganography Lab</a>
+- <a href="https://github.com/scholtesisabella/scholtesisabella/blob/main/Projects/Cybersecurity/CybersecurityPlan-Lab.md">Cybersecurity Plan Lab</a>
