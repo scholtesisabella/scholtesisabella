@@ -43,7 +43,6 @@ In this homelab, I use VMware to virtualize different operating systems and expl
 <img src="https://www.comptia.org/_next/image/?url=https%3A%2F%2Fimages.cmp.optimizely.com%2F8623b0fab71111efac96d615e91762a5&w=256&q=90" alt="CompTIA Security+" width="150"/>  
   
 Obtained: 08/06/2025 · Expires: 08/06/2028  
-Credential ID: `FQ8WDYMS9F111VJJ`
 
 </div>
 
