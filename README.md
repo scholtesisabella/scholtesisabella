@@ -1,5 +1,5 @@
 # 🛡️ Isabella Scholtes — Cybersecurity Homelab Portfolio
-<a href="https://www.linkedin.com/in/isabella-scholtes-311296309/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/isabellascholtes/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I hold a Bachelor’s degree in Cybersecurity with a background in software engineering, recently earned my CompTIA Security+, and I’m currently studying for the CompTIA CySA+.
 
