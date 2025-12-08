@@ -11,6 +11,7 @@ In this homelab, I use VMware to virtualize different operating systems and expl
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| **Windows Registry Persistence Investigation** with AutoRuns Powershell Module           | <a href="https://github.com/scholtesisabella/scholtesisabella/blob/main/Projects/Cybersecurity/Windows%20Registry%20Persistence%20Lab.md">Windows Registry Persistence Investigation Lab</a>|
 | **Splunk Enterprise Log Integration** with Linux & Windows Universal Forwarders           | <a href="https://github.com/scholtesisabella/scholtesisabella/blob/main/Projects/Cybersecurity/Splunk%20SOC%20Log%20Integration%20Lab.md">Splunk SOC Log Integration Lab</a>|
 | **Log Parsing & Analysis** with Regex, Unix CL, and CyberChef          | <a href="https://github.com/scholtesisabella/scholtesisabella/blob/main/Projects/Cybersecurity/LogAnalysis-Lab.md">Log Analysis Lab</a>|
 | **Log Collection** in Linux Environment using Rsyslog          | <a href="https://github.com/scholtesisabella/scholtesisabella/blob/main/Projects/Cybersecurity/LogCollection-Lab.md">Log Collection Lab</a>|
@@ -19,13 +20,10 @@ In this homelab, I use VMware to virtualize different operating systems and expl
 
 ## Tools
 
-### Network
+### Incident Response
 <div>
+    <img src="https://img.shields.io/badge/-Windows_Registry-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>  
-
-### SIEM
-<div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>  
@@ -40,6 +38,10 @@ In this homelab, I use VMware to virtualize different operating systems and expl
 
 ## Certifications
 <div>
+<img src="https://www.comptia.org/_next/image/?url=https%3A%2F%2Fimages.cmp.optimizely.com%2F842acf9ab71111efac96d615e91762a5%3Fwidth%3D300%26height%3D300&w=640&q=90" alt="CYSA+" width="150"/> 
+
+Obtained (Expected): 1/30/2025
+    
 <img src="https://www.comptia.org/_next/image/?url=https%3A%2F%2Fimages.cmp.optimizely.com%2F8623b0fab71111efac96d615e91762a5&w=256&q=90" alt="CompTIA Security+" width="150"/>  
   
 Obtained: 08/06/2025 · Expires: 08/06/2028  
@@ -47,7 +49,8 @@ Obtained: 08/06/2025 · Expires: 08/06/2028
 </div>
 
 ## Projects
-- <a href="https://github.com/scholtesisabella/scholtesisabella/blob/main/Projects/Cybersecurity/Splunk%20SOC%20Log%20Integration%20Lab.md">Splunk SOC Log Integration Lab</a>|
+- <a href="https://github.com/scholtesisabella/scholtesisabella/blob/main/Projects/Cybersecurity/Windows%20Registry%20Persistence%20Lab.md">Windows Registry Persistence Investigation Lab</a>
+- <a href="https://github.com/scholtesisabella/scholtesisabella/blob/main/Projects/Cybersecurity/Splunk%20SOC%20Log%20Integration%20Lab.md">Splunk SOC Log Integration Lab</a>
 - <a href="https://github.com/scholtesisabella/scholtesisabella/blob/main/Projects/Cybersecurity/LogAnalysis-Lab.md">Log Analysis Lab</a> 
 - <a href="https://github.com/scholtesisabella/scholtesisabella/blob/main/Projects/Cybersecurity/LogCollection-Lab.md">Log Collection Lab</a>
 - <a href="https://github.com/scholtesisabella/scholtesisabella/blob/main/Projects/Cybersecurity/Steganography-Lab.md">Steganography Lab</a>
